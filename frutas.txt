@@ -2,6 +2,12 @@ A:
 abacaxi 
 abacate
 
+C:
+cenoura
+
 M:
 melao
 melancia 
+maça
+
+
