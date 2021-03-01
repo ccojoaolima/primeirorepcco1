@@ -1,6 +1,6 @@
 A:
-Amora
 abacaxi 
 
 M:
 melao
+melancia 
