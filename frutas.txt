@@ -1,5 +1,6 @@
 A:
 abacaxi 
+abacate
 
 M:
 melao
